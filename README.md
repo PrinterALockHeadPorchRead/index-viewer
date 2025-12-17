@@ -13,7 +13,7 @@
 ### Вариант 1: Docker
 
 ```bash
-git clone https://github.com/yourusername/index-viewer.git
+git clone https://github.com/PrinterALockHeadPorchRead/index-viewer.git
 cd index-viewer
 docker-compose up --build
 ```
